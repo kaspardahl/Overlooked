@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ootii", "ootii.csproj", "{DFA4814D-15C6-F189-EB6C-4BD297CC18BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6E253F72-1F8E-6EF9-55FA-70476399833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ootii.Editor", "ootii.Editor.csproj", "{EF5F7C27-D72F-40C4-BFA8-50FEB22C3647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA4814D-15C6-F189-EB6C-4BD297CC18BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA4814D-15C6-F189-EB6C-4BD297CC18BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA4814D-15C6-F189-EB6C-4BD297CC18BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA4814D-15C6-F189-EB6C-4BD297CC18BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E253F72-1F8E-6EF9-55FA-70476399833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E253F72-1F8E-6EF9-55FA-70476399833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E253F72-1F8E-6EF9-55FA-70476399833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E253F72-1F8E-6EF9-55FA-70476399833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5F7C27-D72F-40C4-BFA8-50FEB22C3647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5F7C27-D72F-40C4-BFA8-50FEB22C3647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5F7C27-D72F-40C4-BFA8-50FEB22C3647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5F7C27-D72F-40C4-BFA8-50FEB22C3647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
